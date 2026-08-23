@@ -1,0 +1,5 @@
+Tweaks-Anthology-Custom-Lite-v18.zip
+d72c0bf6be3e6853b97a20acaaa2c2c67f126797c03dcab970919a3ca4d96b6f
+
+setup-cdtweaks.exe (WeiDU 249.00 inside package)
+ad70f5897a6d0ba4b0d226f845a9b14cf345f56cc9697ca8d05cac9fe4932c1a
